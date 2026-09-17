@@ -5,7 +5,7 @@ Assignment: POE Part 1
 
 
 About the Project:
-This project is a simple console-based chat application. It introduces basic features you would find in a real messaging app, such as sending, receiving, and reading messages, as well as user registration and login. My goal was not just to make something that works, but to ensure my code is easy to test, maintain, and improve—starting to think more like a software engineer than just a coder.
+This project is a simple console-based chat application. It introduces basic features you would find in a real messaging app, such as sending, receiving, and reading messages, as well as user registration and login. My goal was not just to make something that works, but to ensure my code is easy to test, maintain, and improve-starting to think more like a software engineer than just a coder.
 
 Mission and Vision:
 The mission of this project is to build a solid understanding of the practical and theoretical side of early programming, with a focus on object-oriented principles, code testing, and version control. My vision is for this project to serve as a stepping-stone, helping me and others create reliable, scalable programs as we grow as developers.
