@@ -15,7 +15,7 @@ public class Login {
     public boolean checkUserName(String username) {
         return username.contains("_") && username.length() <= 5;
     }
-    // Regex references
+    // References for REGEX
 // DevGex. 2025. Comprehensive Guide to Password Validation with Java Regular Expressions. Available at:https://devgex.com/en/article/00036728
     //geeksfoegeeks. 2025. Validate Phone Numbers ( with Country Code extension) using Regular Expression. Available: https://www.geeksforgeeks.org/dsa/validate-phone-numbers-with-country-code-extension-using-regular-expression/
     // https://www.geeksforgeeks.org/dsa/validate-phone-numbers-with-country-code-extension-using-regular-expression/
