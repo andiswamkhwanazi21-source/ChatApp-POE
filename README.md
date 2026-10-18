@@ -291,22 +291,6 @@ Through development of this project, I improved my understanding of:
 | Week 7 | GitHub documentation and final submission preparation | Completed |
 
 
-# Future Improvements
-
-Possible future enhancements include:
-
-- Graphical User Interface (GUI)
-- Database integration
-- Encrypted password storage
-- User profiles
-- Contact management
-- Message history retrieval
-- File sharing
-- Voice notes
-- Real-time communication
-- Mobile application integration
-
-
 # GitHub Repository
 
 Repository Link:
