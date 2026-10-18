@@ -24,9 +24,9 @@ Focused on:
 - Password validation
 - User login
 - Login verification
+- jUnit testing 
 
 ### Part 2
-Expanded the project by introducing:
 - Message creation
 - Message validation
 - Automated Message ID generation
