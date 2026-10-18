@@ -125,10 +125,7 @@ The Message class is responsible for:
 
 # Project Structure
 
-text
-ChatApp-POE
-│
-├── ChatAppPOE.java
+ChatAppPOE.java
 ├── Login.java
 ├── LoginTest.java
 ├── Message.java
