@@ -7,7 +7,7 @@
 - *Module:* Programming 1A
 - *Qualification:* Bachelor of Information Technology in Business Systems
 - *Institution:* Rosebank International University College
-- *Assignment:* POE Part 1 and Part 2
+- *Project:* POE Part 1, Part 2 and Part 3
 
   # QuickChat Messaging Application
 
