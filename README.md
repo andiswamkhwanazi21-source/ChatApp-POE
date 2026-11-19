@@ -525,7 +525,7 @@ Inserted controlled test data before each test execution.
 Repository Link:
 
 ```text
-https://github.com/YOUR-USERNAME/QuickChat
+https://github.com/andiswamkhwanazi21-source/ChatApp-POE.git 
 ```
 # Conclusion
 
